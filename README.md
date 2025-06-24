@@ -11,7 +11,7 @@ Right now I’m learning in public as I build:
 
 ## 🧭 Background
 
-- 🎓 BA in Art (Jewelry), former studio monitor & library assistant
+- 🎓 BFA in Art (Jewelry), former studio monitor & library assistant
 - 🔍 Passion for structured thinking, documentation, and UX that empowers
 - 🧠 Diagnosed ADHD, possibly Autistic – I’m especially interested in neurodivergent-friendly tools and workspaces
 - 📚 Learning tools: Obsidian, GitHub, Bubble, Claude, ChatGPT, Markdown, APIs, Homebrew, and Webflow
